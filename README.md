@@ -1,2 +1,2 @@
 # 51nod
-51nod代码
+51nod AC代码，主要为C/C++和Python
